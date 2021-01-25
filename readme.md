@@ -6,4 +6,4 @@ My skill set includes:
 1. Javascript
 1. HTML
 1. Repl
-1. CHALK
+1. CHAL
